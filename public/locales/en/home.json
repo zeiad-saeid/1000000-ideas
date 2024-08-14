@@ -1,0 +1,37 @@
+{
+  "home_hero": {
+    "hero_title_1": "About Our Company",
+    "hero_desc_1": "Our vision is to empower companies to achieve their full potential by providing specialized and flexible IT teams. We are committed to delivering exceptional and comprehensive services, based on a deep understanding of our clients' needs and the ever-changing technology market demands.",
+    "hero_button": "See Our Work"
+  },
+  "home_hero_section1": {
+    "section_title": "Our Portfolio",
+    "section_desc": "We are dedicated to delivering projects that exceed expectations, combining technical expertise with innovative solutions. Our portfolio reflects our ability to tackle a wide range of projects, demonstrating our versatility and commitment to quality. By choosing to work with us, you can be confident that you are partnering with a team that understands your needs and is equipped to deliver exceptional results in the ever-evolving technology landscape.",
+    "button": "Know Us"
+  },
+  "home_hero_section2": {
+    "section_title": "Our Services",
+    "section_desc": "We provide advanced programming solutions aimed at meeting and exceeding our clients' expectations in the fields of application and web development."
+  },
+  "home_hero_section3": {
+    "how_to_start": "How to Start",
+    "easy_process": "Easy Process",
+    "we_are_specialized_in": "We specialize in helping you build a team of expert developers, testers, and leaders.",
+    "you_ask": "YOU ASK",
+    "we_proceed": "WE PROCEED",
+    "negotiate": "NEGOTIATE",
+    "you_get": "YOU GET"
+  },
+  "home_hero_section4": {
+    "quote": "“To get Game-Changing results, start focusing on Game-Changing thoughts.”"
+  },
+  "home_hero_section5": {
+    "our_clients": "Our Clients",
+    "our_clients_desc": "Our esteemed clients' opinions on our exceptional work."
+  },
+  "home_hero_section6": {
+    "who_we_are": "WHO WE ARE",
+    "meet_our_team": "Meet our team",
+    "meet_our_team_desc": "Take a look at our outstanding team members with their extensive expertise."
+  }
+}

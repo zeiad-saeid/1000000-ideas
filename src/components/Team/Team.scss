@@ -1,0 +1,11 @@
+/* styles.css or your stylesheet */
+.cardParent {
+  box-shadow: 8px 4px 8px 4px rgba(0, 0, 0, 0.25); /* Shadow around the border */
+  /* Optional: adjust the border radius as needed */
+}
+.mask-image {
+  mask: url('../../assets/member-mask.svg') no-repeat center;
+  -webkit-mask: url('../../assets/member-mask.svg') no-repeat center;
+  mask-size: 100%;
+  -webkit-mask-size: 100%;
+}

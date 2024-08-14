@@ -1,0 +1,15 @@
+{
+  "blog": {
+    "blog": "Blog",
+    "latest_posts": "Latest Posts",
+    "all_posts": "All Posts",
+    "search_by_category": "Search by Category",
+    "recent_posts": "Recent Posts",
+    "read_more": "Read More",
+    "load_more": "Load More",
+    "related_posts": "Related Posts",
+    "post": "Post",
+    "bookACall": "Book a Call",
+    "historyQuote": "“Some of the History of Our Company is that we are Catching up through Video”"
+  }
+}

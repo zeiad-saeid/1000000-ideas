@@ -1,0 +1,60 @@
+{
+  "navbar": {
+    "page_title": "Millionideas",
+    "homepage": "Home",
+    "about": "About",
+    "our_services": "Our Services",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact": "Contact",
+    "button": "Request Price Offer",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "footer": {
+    "about_us": {
+      "title": "About Us",
+      "description": "Million Idea Digital Products Company delivers innovative digital solutions, including web and app development, e-commerce, and digital marketing. We turn ideas into digital success."
+    },
+    "services": {
+      "title": "Services",
+      "items": [
+        "Web Design/Development",
+        "App Development",
+        "UI/UX Design",
+        "HubSpot Integration",
+        "Email Marketing",
+        "Website Migration"
+      ]
+    },
+    "career": {
+      "title": "Career",
+      "positions": [
+        {
+          "title": "ReactJs Dev.",
+          "experience": "1-5 Years of Exp."
+        },
+        {
+          "title": "Wordpress Dev.",
+          "experience": "1-5 Years of Exp."
+        },
+        {
+          "title": "Python Developer",
+          "experience": "1-5 Years of Exp."
+        }
+      ]
+    },
+    "subscribe_us": {
+      "title": "Subscribe Us",
+      "description": "Subscribe to our newsletter to stay updated on the latest news and updates about our digital solutions and exceptional services.",
+      "email_placeholder": "Email",
+      "button_text": "Submit"
+    },
+    "social_links": {
+      "linkedin": "LinkedIn",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "twitter": "Twitter"
+    }
+  }
+}

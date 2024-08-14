@@ -1,0 +1,420 @@
+{
+	"info": {
+		"_postman_id": "56e542fc-97c6-42c4-a6fb-9307ec5d7997",
+		"name": "millionideas",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "5681773",
+		"_collection_link": "https://cloudy-water-4645.postman.co/workspace/Team-Workspace~b26ee142-fa96-4e63-8d51-ede3406d0da3/collection/5681773-56e542fc-97c6-42c4-a6fb-9307ec5d7997?action=share&source=collection_link&creator=5681773"
+	},
+	"item": [
+		{
+			"name": "Home",
+			"item": [
+				{
+					"name": "about_us",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/about-us",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"about-us"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "specialicez",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/services",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"services"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Teams",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/teams",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"teams"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Clients",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/clients",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"clients"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Skills",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/skills",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"skills"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "company logo",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/partners",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"partners"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "aboutUs",
+			"item": [
+				{
+					"name": "about_us",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/about-us",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"about-us"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Teams",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/teams",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"teams"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "settings",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/settings",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"settings"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "contactus",
+			"item": [
+				{
+					"name": "Contactus",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\":\"test name\",\r\n    \"phone\":\"01159101659\",\r\n    \"email\":\"sddsa@sdadasd.com\",\r\n    \"message\":\"test test\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{$Url}}/postContactus",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"postContactus"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "settings",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/settings",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"settings"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "specialicez",
+			"item": [
+				{
+					"name": "specialicez",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/services",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"services"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product Scope",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\":4\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{$Url}}/product-scope",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"product-scope"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "blogs",
+			"item": [
+				{
+					"name": "Blogs",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/blogs",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"blogs"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Blog Categories",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/blog-categories",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"blog-categories"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "portfolio",
+			"item": [
+				{
+					"name": "portfolio",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/projects",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"projects"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Project Departments",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{$Url}}/project-departments",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"project-departments"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Submit Form",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\":\"test name\",\r\n    \"description\":\"sadsadasd\",\r\n    \"email\":\"sddsa@sdadasd.com\",\r\n    \"hear\":\"by facebook\",\r\n    \"project_id\":1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{$Url}}/postProjectForm",
+							"host": [
+								"{{$Url}}"
+							],
+							"path": [
+								"postProjectForm"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "GalleryGroup",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{$Url}}/gallery-group",
+					"host": [
+						"{{$Url}}"
+					],
+					"path": [
+						"gallery-group"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "$Url",
+			"value": "https://milionideas.com/dashboard/api",
+			"type": "string"
+		}
+	]
+}

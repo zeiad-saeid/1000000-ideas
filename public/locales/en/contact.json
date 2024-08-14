@@ -1,0 +1,30 @@
+{
+  "contact": {
+    "get": "GET",
+    "in_touch": "IN TOUCH",
+    "name": "Name",
+    "name_placeholder": "Enter Your Name",
+    "name_error": "You have to Enter Your Name",
+
+    "email": "Email",
+    "email_placeholder": "Enter Your Email",
+    "email_error": "You have to Enter Your Email",
+
+    "phone": "Phone Number",
+    "phone_placeholder": "Enter Your Phone Number",
+    "phone_error": "You have to Enter Your Phone Number",
+    
+    "message": "Message",
+    "message_placeholder": "Enter Your Message",
+    "message_error": "You have to Enter Your Message",
+    
+    "send_message": "Send Message",
+    "contact": "CONTACT",
+    "info": "INFO",
+    "email_address": "Email Address",
+    "follow_us": "Follow US",
+    "address_info": "Address Info",
+    "address": "Al Ryad, Suadi Arabia Alexandria , Egypt",
+    "successfully":"Your Message sent successfully"
+  }
+}
