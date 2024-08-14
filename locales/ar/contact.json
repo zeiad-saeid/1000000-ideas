@@ -1,0 +1,30 @@
+{
+  "contact": {
+    "get": "تواصل",
+    "in_touch": "معنا",
+    "name": "الاسم",
+    "name_placeholder": "أدخل اسمك",
+    "name_error": "يجب إدخال اسمك",
+
+    "email": "البريد الإلكتروني",
+    "email_placeholder": "أدخل بريدك الإلكتروني",
+    "email_error": "يجب إدخال بريدك الإلكتروني",
+
+    "phone": "رقم الهاتف",
+    "phone_placeholder": "أدخل رقم هاتفك",
+    "phone_error": "يجب إدخال رقم هاتفك",
+    
+    "message": "الرسالة",
+    "message_placeholder": "أدخل رسالتك",
+    "message_error": "يجب إدخال رسالتك",
+    
+    "send_message": "أرسل الرسالة",
+    "contact": "اتصال",
+    "info": "معلومات",
+    "email_address": "عنوان البريد الإلكتروني",
+    "follow_us": "تابعنا",
+    "address_info": "معلومات العنوان",
+    "address": "الرياض، المملكة العربية السعودية، الإسكندرية، مصر",
+    "successfully":"تم ارسال رسالتك بنجاح"
+  }
+}

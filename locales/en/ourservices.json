@@ -1,0 +1,27 @@
+{
+  "title": "Our Services",
+  "description": "We provide advanced programming solutions aimed at meeting and exceeding our clients' expectations in the fields of application and web development.",
+  "visionTitle": "what we do",
+  "visionTitle2": "Our Vision",
+  "visionTitle3": "We Develope Product That People Love to Use.",
+  "description2": "It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its layout. The point of  using Lorem Ipsum is that it has a more-or-less normal distribution  of letters, as opposed,  of a page when looking at its layout. The point of using Lorem Ipsum is that of a page when looking at its layout. The point of using Lorem Ipsum is thatLorem Ipsum is that it has a more-or-less normalLorem IpsumLorem Ipsum distribution of letters, as opposed",
+  "visionDescription": "Do Great Work",
+  "goalTitle": "Our Goal",
+  "goalDescription": "Satisfy our clients",
+  "readMore": "read more",
+  "readLess": "read less",
+  "services": {
+    "webDevelopment": {
+      "title": "Web Design / Development",
+      "description": "It is a long established fact that a reader will be distra by the readable content of a page when looking at its layout, when looking at its layout"
+    },
+    "appDevelopment": {
+      "title": "App Development",
+      "description": "It is a long established fact that a reader will be distra by the readable content of a page when looking at its layout, when looking at its layout"
+    },
+    "uiuxDesign": {
+      "title": "UI/UX Design",
+      "description": "It is a long established fact that a reader will be distra by the readable content of a page when looking at its layout, when looking at its layout"
+    }
+  }
+}
